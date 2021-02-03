@@ -1,0 +1,10 @@
+    [-----------------------Game Rules------------------------]
+    •You have to choose the correct answer.
+    •There are four possible choices
+    •and one correct answer.
+    •Every right answer is 10 point.
+    •You can submit a question, once.
+    •You can skip questions, and come back later.
+    •Try to get as much point as you can.
+                                Have fun:))
+
